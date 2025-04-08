@@ -1,0 +1,39 @@
+# Build
+bin/
+obj/
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VSCode
+.vscode/
+
+# ASP.NET Secrets
+secrets.json
+
+# Entity Framework / banco local
+*.db
+
+# Configuração de ambiente
+.env
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Publish output
+publish/
+
+# Pacotes NuGet
+*.nupkg
+packages/
