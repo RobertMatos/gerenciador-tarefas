@@ -44,3 +44,4 @@
 /home/robert/Documentos/Projetos - 2025/Teste C#/WebAPI-Tarefas/TarefasApi/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
 /home/robert/Documentos/Projetos - 2025/Teste C#/WebAPI-Tarefas/TarefasApi/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
 /home/robert/Documentos/Projetos - 2025/Teste C#/WebAPI-Tarefas/TarefasApi/bin/Debug/net8.0/BCrypt.Net-Next.dll
+/home/robert/Documentos/Projetos - 2025/Teste C#/WebAPI-Tarefas/TarefasApi/obj/Debug/net8.0/TarefasApi.sourcelink.json
